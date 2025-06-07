@@ -1,1 +1,1 @@
-# dan-letter-calculator
+# dna-letter-calculator
